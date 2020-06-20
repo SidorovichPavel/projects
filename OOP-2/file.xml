@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ClassItem type="RAM" ID="11" Developer="HyperX" Designation="memory card" capacity="8192" frequency="2100" />
+<ClassItem type="VA" ID="20" Developer="nVidia" Designation="GTX" Capacity="4096" />
+<ClassItem type="MR" ID="31" Developer="LG" Designation="JK" Rate="144" width="1960" height="1080" />
+<ClassItem type="RAM" ID="1" Developer="HyperX" Designation="RAM memory" capacity="2048" frequency="1700" />
+<ClassItem type="MR" ID="30" Developer="Asus" Designation="JK" Rate="60" width="1366" height="766" />

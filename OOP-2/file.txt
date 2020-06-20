@@ -1,0 +1,5 @@
+RAM 11 HyperX memory_card 8192 2100
+VA 20 nVidia GTX 8192
+Monitor 31 LG JK 144 1960,1080
+RAM 1 HyperX memory_card 2048 1700
+Monitor 30 Asus JK 60 1366,766
