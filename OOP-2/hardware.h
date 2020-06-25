@@ -57,7 +57,7 @@ protected:
 		frequency;
 };
 
-class video_adapter : ID
+class video_adapter : public ID
 {
 public:
 	video_adapter();
